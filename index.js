@@ -1,5 +1,4 @@
 const greeting = (name) => {
   console.log(`Hello ${name}`);
 };
-greeting("John");
-greeting("Abc");
+greeting("Muneeb");
